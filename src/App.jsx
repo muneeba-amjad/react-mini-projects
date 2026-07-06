@@ -10,7 +10,7 @@ import ToggleBgColor from "./05-color-toggle/ToggleBgColor"
 function App() {
 
   return (
-    <BrowserRouter basename="/react-projects">
+    <BrowserRouter basename="/react-mini-projects">
     
       <Routes>
         <Route path="/" element={<Home />} />
