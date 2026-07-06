@@ -1,16 +1,46 @@
-# React + Vite
+# React Mini Projects
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A collection of small React practice projects, built to strengthen core frontend fundamentals — state management, hooks, event handling, and component structure — as part of my ongoing journey toward full-stack development.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [https://muneeba-amjad.github.io/react-mini-projects/](https://muneeba-amjad.github.io/react-mini-projects/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+All projects are listed and linked from the home page above — just click through to explore each one.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tech Stack
 
-## Expanding the Oxlint configuration
+- React (Vite)
+- React Router
+- JavaScript (ES6+)
+- CSS (component-scoped inline styles)
+- Deployed via GitHub Actions → GitHub Pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 📂 What's Inside
+
+- Counter
+- Todo App
+- Meals App (API data fetching)
+- Calculator
+- Color Toggle
+
+More mini projects will be added here regularly as I continue practicing.
+
+---
+
+## 🚀 Running Locally
+
+```bash
+git clone https://github.com/muneeba-amjad/react-mini-projects.git
+cd react-mini-projects
+npm install
+npm run dev
+```
+
+---
+
+## 📌 About
+
+This repo is part of my daily practice routine as I build toward full-stack development (React, Node.js, Express, PostgreSQL).
